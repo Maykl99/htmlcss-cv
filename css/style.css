@@ -1,0 +1,23 @@
+body{background: #E8EDEA;}
+
+h1,h2,h5,p,span{
+  color: #393B3A;
+  font-family: sans-serif;
+}
+
+header section{text-align: center;}
+
+header img{width: 10%;}
+
+hr{border: 2px solid #4C91BC;}
+
+section h4{
+  color:#4C91BC;
+  font-family: sans-serif;
+}
+
+#cuore{
+  color:#4C91BC;
+  font-size: 18px;
+  padding: 2px;
+}
