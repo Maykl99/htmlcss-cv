@@ -1,2 +1,2 @@
 htmlcss-cv
-Pagina statica, utilizzo degli strumenti basici per creare una prima pagina strutturata.
+Pagina statica, utilizzo degli strumenti basici per creare una prima pagina strutturata, lontana dall'essere perfetta.
